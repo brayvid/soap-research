@@ -1369,4 +1369,4 @@ else:
 
 ---
 
-<center>&copy; Copyright 2024-2025 <a href="https://soap.fyi">soap.fyi</a>. All rights reserved.</center>
+<p align="center">&copy; Copyright 2024-2025 <a href="https://soap.fyi">soap.fyi</a>. All rights reserved.</p>
