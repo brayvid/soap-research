@@ -1,8 +1,5 @@
 # Soap Data Science
 
-&copy; Copyright 2024-2025 [soap.fyi](https://soap.fyi). All rights reserved.
-
-
 ```python
 import os
 from dotenv import load_dotenv
@@ -1370,3 +1367,6 @@ else:
 
 
 
+---
+
+<p style="text-align:center">&copy; Copyright 2024-2025 <a href="https://soap.fyi">soap.fyi</a>. All rights reserved.</p>
