@@ -1,4 +1,6 @@
-# Soap Data Science
+# Soap Data Science Environment
+
+<a href="https://colab.research.google.com/github/brayvid/soap-research/blob/main/soap_sql_queries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ```python
 import os
